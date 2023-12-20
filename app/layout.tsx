@@ -5,6 +5,7 @@ import LoginModal from '@/app/components/modals/LoginModal';
 import RegisterModal from '@/app/components/modals/RegisterModal';
 import './globals.css'
 import getCurrentUser from './actions/getCurrentUser';
+import ClientOnly from './components/ClientOnly';
 
 export const metadata = {
   title: 'Airbnb',
@@ -25,9 +26,11 @@ export default async function RootLayout({
   return (
     <html lang="en">
       <body className={font.className}>
+        <ClientOnly>
           <LoginModal />
           <RegisterModal />
           <Navbar currentUser={currentUser} />
+        </ClientOnly>
         <div className="pb-20 pt-28">
           {children}
         </div>

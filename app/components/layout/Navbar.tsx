@@ -2,11 +2,12 @@
 
 import { SafeUser } from "@/app/types";
 
-import Image from "next/image";
-
-import Container from "./Container";
+import Logo from "./Logo";
+import Container from "../Container";
 import Search from "./Search";
 import UserMenu from "./UserMenu";
+import Categories from "./Categories";
+
 
 interface NavbarProps {
   currentUser?: SafeUser | null;
@@ -34,18 +35,13 @@ const Navbar: React.FC<NavbarProps> = ({
             md:gap-0
           "
         >
-           <Image
-              className="hidden md:block cursor-pointer" 
-              src="/images/logo.png" 
-              height="100" 
-              width="100" 
-              alt="Logo" 
-           />
+            <Logo />
             <Search />
             <UserMenu  currentUser={currentUser} />
         </div>
       </Container>
     </div>
+    <Categories />
   </div>
   );
 }

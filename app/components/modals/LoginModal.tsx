@@ -14,7 +14,7 @@ import { useRouter } from "next/navigation";
 import useRegisterModal from "@/app/hooks/useRegisterModal";
 import useLoginModal from "@/app/hooks/useLoginModal";
 
-import Modal from "../Modal";
+import Modal from "./Modal";
 import Input from "../inputs/Input";
 import Heading from "../Heading";
 import Button from "../Button";
@@ -101,7 +101,7 @@ const LoginModal = () => {
         icon={FcGoogle}
         onClick={() => signIn('google')}
       />
-    
+     
       <div className="
       text-neutral-500 text-center mt-4 font-light">
         <p>First time using Airbnb?
