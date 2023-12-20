@@ -4,7 +4,6 @@ import Image from "next/image";
 import { useRouter } from "next/navigation";
 import { useCallback, useMemo } from "react";
 import { format } from 'date-fns';
-
 import useCountries from "@/app/hooks/useCountries";
 import { 
   SafeListing, 
@@ -14,7 +13,6 @@ import {
 
 import HeartButton from "../HeartButton";
 import Button from "../Button";
-import ClientOnly from "../ClientOnly";
 
 interface ListingCardProps {
   data: SafeListing;
