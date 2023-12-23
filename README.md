@@ -4,8 +4,8 @@
 aribnb는 이전에 제작했던  [next-amazon](https://github.com/skdksldk/next-amazon)과  [next-blog](https://github.com/skdksldk/nextblog)를 기반으로 prisma를 추가해서 만든 여행용 애플리케이션입니다
 - prisma에 mongo db를 접속하여 CRUD를 통해 로그인, 로그아웃, 여행지 추가 및 삭제를 할수 있습니다
 - nextjs를 통해 서버 사이드 렌더링을 공부하게 되었고 tailwind css를 지원할수 있게 되었음을 알게 되었습니다.
-.- next-auth 라이브러리를 통해 Oauth Google login 기능을 첨부해 구글을 통한 로그인을 할수 있습니다.
-.- next-cloudinary 라이브러리를 통해 cloudinay 기능으로 이미지 업로드를 할수 있습니다.
+- next-auth 라이브러리를 통해 Oauth Google login 기능을 첨부해 구글을 통한 로그인을 할수 있습니다.
+- next-cloudinary 라이브러리를 통해 cloudinay 기능으로 이미지 업로드를 할수 있습니다.
 - [배포 링크](https://nextaribnb.vercel.app/)
 
 ### 🏃 구성원
@@ -27,15 +27,21 @@ https://github.com/skdksldk/next-aribnb/assets/85090323/6e3a4f2b-592c-4118-844b-
 
 ### 2. 로그인
 
-![로그인] ![로그인](https://github.com/skdksldk/next-aribnb/assets/85090323/a62a4036-6f51-4b5e-8915-63789351f808)
+![로그인](https://github.com/skdksldk/next-aribnb/assets/85090323/a62a4036-6f51-4b5e-8915-63789351f808)
 
 - Next-Auth로 구글 로그인 연동이 가능합니다.
 
 ### 3. 회원가입
 
-![회원가입] ![회원가입](https://github.com/skdksldk/next-aribnb/assets/85090323/573dfca4-ffde-4398-bbae-d6c5d1c1a84a)
+![회원가입](https://github.com/skdksldk/next-aribnb/assets/85090323/573dfca4-ffde-4398-bbae-d6c5d1c1a84a)
 
 ### 4. 이미지 업로드
+
+(https://github.com/skdksldk/next-aribnb/assets/85090323/444dea41-0fe6-43aa-b7b2-c7198eb6a9b7)
+
+(https://github.com/skdksldk/next-aribnb/assets/85090323/994d8da8-8a72-4da1-a651-04684788b7ab)
+
+(https://github.com/skdksldk/next-aribnb/assets/85090323/c997709c-a804-4920-964e-e159c43a8342)
 
 - Next-Cloudinary로 이미지 업로드가 가능합니다.
 
