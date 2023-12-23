@@ -47,7 +47,7 @@ https://github.com/skdksldk/next-aribnb/assets/85090323/6e3a4f2b-592c-4118-844b-
 
 ### 5. 좋아요
 
-![좋아요] ![좋아요](https://github.com/skdksldk/next-aribnb/assets/85090323/c0edad06-4620-4a50-9e92-4932a171661f)
+![좋아요](https://github.com/skdksldk/next-aribnb/assets/85090323/c0edad06-4620-4a50-9e92-4932a171661f)
 
 ### 6. 검색
 
