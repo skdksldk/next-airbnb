@@ -11,7 +11,7 @@ aribnb는 이전에 제작했던  [next-amazon](https://github.com/skdksldk/next
 ### 🏃 구성원
 - Frontend<br/>
   - 김준수(React)
-  - 사용 기술 : `Next.js 13`, `React`, `TailwindCSS`, `next-cloudinary`, `next-auth`
+  - 사용 기술 : `Next.js 13`, `React`, `TailwindCSS`, `next-cloudinary`, `next-auth`, `zustand`, `typescript`, `world-countries`
 - Backend<br/>
   - 사용 기술 : `Node.js`, `Express`, `MongoDB`, `Prisma`
  
