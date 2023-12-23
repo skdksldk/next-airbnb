@@ -47,18 +47,15 @@ https://github.com/skdksldk/next-aribnb/assets/85090323/6e3a4f2b-592c-4118-844b-
 
 ### 5. 좋아요
 
-![좋아요]
+![좋아요] ![좋아요](https://github.com/skdksldk/next-aribnb/assets/85090323/c0edad06-4620-4a50-9e92-4932a171661f)
 
-### 6. 여행지 추가, 삭제
+### 6. 검색
 
-- 여행지 추가 및 삭제 기능을 해두었습니다.
+![검색](https://github.com/skdksldk/next-aribnb/assets/85090323/d9f78264-f6b0-438f-b68c-09742965391c)
 
-### 7. 검색 
-
-![검색]
+![2](https://github.com/skdksldk/next-aribnb/assets/85090323/30dddfa7-41fb-43c1-be2c-ba0eda3d32a5)
 
 - 여행지 예약 및 시간과 장소 조회가 가능합니다.
-
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
