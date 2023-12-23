@@ -37,11 +37,11 @@ https://github.com/skdksldk/next-aribnb/assets/85090323/6e3a4f2b-592c-4118-844b-
 
 ### 4. 이미지 업로드
 
-(https://github.com/skdksldk/next-aribnb/assets/85090323/444dea41-0fe6-43aa-b7b2-c7198eb6a9b7)
+![1](https://github.com/skdksldk/next-aribnb/assets/85090323/444dea41-0fe6-43aa-b7b2-c7198eb6a9b7)
 
-(https://github.com/skdksldk/next-aribnb/assets/85090323/994d8da8-8a72-4da1-a651-04684788b7ab)
+![2](https://github.com/skdksldk/next-aribnb/assets/85090323/994d8da8-8a72-4da1-a651-04684788b7ab)
 
-(https://github.com/skdksldk/next-aribnb/assets/85090323/c997709c-a804-4920-964e-e159c43a8342)
+![3](https://github.com/skdksldk/next-aribnb/assets/85090323/c997709c-a804-4920-964e-e159c43a8342)
 
 - Next-Cloudinary로 이미지 업로드가 가능합니다.
 
