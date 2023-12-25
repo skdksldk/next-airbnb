@@ -1,7 +1,7 @@
-# next-aribnb
+# next-airbnb
 
 ## 프로젝트 설명
-aribnb는 이전에 제작했던  [next-amazon](https://github.com/skdksldk/next-amazon)과  [next-blog](https://github.com/skdksldk/nextblog)를 기반으로 prisma를 추가해서 만든 여행용 애플리케이션입니다
+airbnb는 이전에 제작했던  [next-amazon](https://github.com/skdksldk/next-amazon)과  [next-blog](https://github.com/skdksldk/nextblog)를 기반으로 prisma를 추가해서 만든 여행용 애플리케이션입니다
 - prisma에 mongo db를 접속하여 CRUD를 통해 로그인, 로그아웃, 여행지 추가 및 삭제를 할수 있습니다
 - nextjs를 통해 서버 사이드 렌더링을 공부하게 되었고 tailwind css를 지원할수 있게 되었음을 알게 되었습니다.
 - next-auth 라이브러리를 통해 Oauth Google login 기능을 첨부해 구글을 통한 로그인을 할수 있습니다.
